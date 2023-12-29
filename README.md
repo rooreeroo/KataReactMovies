@@ -1,1 +1,1 @@
-Опубликованно по ссылке: https://kata-react-movies-psi.vercel.app/
+https://kata-react-movies-liart.vercel.app/
